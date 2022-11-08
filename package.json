@@ -1,0 +1,12 @@
+{
+  "name": "lhtml",
+  "version": "0.1.0",
+  "description": "LossLess Html Decoder for many purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["crypto, compressing,lossless,decoder,endcoder"],
+  "author": "Mahmoud Galal",
+  "license": "ISC"
+}
