@@ -5,3 +5,4 @@ module.exports ={
     "<h2>":"!4",
     "<button>":"!5"
 }
+// we can add more here as key value for tags with the same examples above
